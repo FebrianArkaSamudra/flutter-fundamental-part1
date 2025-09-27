@@ -27,3 +27,13 @@ Once the project creation is complete, make sure the screen displays the message
 
 ### **Explanation :**
 #### Result:
+
+# Hello World App
+
+Ini adalah screenshot aplikasi Hello World dengan nama lengkap saya:
+
+# *Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum*
+
+## **Step 12**
+
+![Screenshot](images/01.png)
