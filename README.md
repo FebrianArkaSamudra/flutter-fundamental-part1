@@ -78,25 +78,25 @@ In this step, a new file named loading_cupertino.dart was created inside the bas
 A new widget was created in fab_widget.dart using the FloatingActionButton class inside a Scaffold. The FAB contained a thumbs-up icon and used a pink background color. Although the button did not perform an action when pressed, this step illustrated how to integrate a basic FAB into an app layout. The widget was tested by importing it into main.dart, running the project, and capturing the visual result as evidence of completion.
 
 ## **Step 3**
-<video controls src="img/P5_Langkah3.mp4" title="Title"></video>
+![alt text](img/P5_Langkah3.gif)
 ### **Explanation :**
 #### Result:
 The entire layout structure of the main.dart file was replaced to demonstrate the use of the Scaffold widget, which follows Material Design principles. The code included an AppBar, a centered column with a counter, a FloatingActionButton, and a BottomAppBar. The FAB was placed at the center docked position and incremented the counter on press. This layout showed how various UI elements could be composed using Scaffold to manage structure, navigation, and floating buttons. The running result was then documented via screenshot.
 
 ## **Step 4**
-<video controls src="img/P5_Langkah4.mp4" title="Title"></video>
+![alt text](img/P5_Langkah4.gif)
 ### **Explanation :**
 #### Result:
 This step introduced the use of dialog widgets, specifically an AlertDialog. The main.dart file was updated to include a layout with a button labeled "Show alert" that, when tapped, triggered a dialog with a title, a message, and an "OK" button. This demonstrated how to use Flutter’s dialog system to prompt user interactions and respond to actions via navigation pop. The result was run and a screenshot was taken for the report.
 
 ## **Step 5**
-<video controls src="img/P5_Langkah5.mp4" title="Title"></video>
+![alt text](img/P5_Langkah5.gif)
 ### **Explanation :**
 #### Result:
 A widget was created using the TextField class to allow user input. The layout consisted of an AppBar and a single TextField with an outlined border and label text "Nama." This step showcased one of Flutter’s most commonly used input components and how it can be styled and positioned within a Scaffold. The result was tested, run, and visually documented.
 
 ## **Step 6**
-<video controls src="img/P5_Langkah6.mp4" title="Title"></video>
+![alt text](img/P5_Langkah6.gif)
 ### **Explanation :**
 #### Result:
 The final step involved implementing a DatePicker widget inside a StatefulWidget class. When the user tapped a button labeled "Pilih Tanggal," a native-style date picker appeared, allowing the user to select a date. The selected date was then shown on screen. The logic used showDatePicker() to open the calendar UI and update the state when a new date was selected. This interaction provided experience working with date input and state management. The result was verified visually and included in the report.
@@ -104,4 +104,4 @@ The final step involved implementing a DatePicker widget inside a StatefulWidget
 # *Tugas Praktium No.3: Pada praktikum 5 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!*
 
 ## **Result**
-<video controls src="img/TugasPraktikum3.mp4" title="Title"></video>
+![alt text](img/TugasPraktikumNo3.gif)
