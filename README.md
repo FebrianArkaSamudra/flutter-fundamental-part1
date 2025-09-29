@@ -105,3 +105,10 @@ The final step involved implementing a DatePicker widget inside a StatefulWidget
 
 ## **Result**
 ![alt text](img/TugasPraktikumNo3.gif)
+
+## *Tugas Praktium No.4: Complete Codelabs: Your first Flutter app, then make the practicum report and push it to your GitHub repository!*
+([link github](https://github.com/FebrianArkaSamudra/flutter-application-1.git))
+
+## *Tugas Praktium No.5: README.md must contain: captures of the final result of each practicum (side-by-side, it can also be a GIF file to show the process of change when there is user interaction) while displaying your Student ID (NIM) and Name as proof of your work.*
+
+## *Tugas Praktium No.6: Submit in the form of a GitHub repository/commit link to the lecturer as agreed!*
